@@ -1,5 +1,5 @@
 def encode(array):
-    """Encodes the list of words into a string"""
+    """Encodes the list of words into a string..."""
     ans = ''
     for i in array:
         ans += str(len(i)) + '@' + i
