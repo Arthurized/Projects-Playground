@@ -15,6 +15,7 @@ def backpack():
 
 
 def infinite_backpack():
+    """Allow item repetition."""
     a = [0] * (w + 1)
     for i in range(1, n + 1):
         for j in range(char[i][0], w + 1):
