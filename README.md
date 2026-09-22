@@ -1,5 +1,5 @@
-Some of the small side projects from high school and beyond.
+Different scripts I wrote in R primarily for Columbia's statistics class.
 
-As of 9/11/2026, [LeetCode 271](https://leetcode.com/problems/encode-and-decode-strings/description/), [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem) and [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding) are included
+Due to the nature of grading, I presume it to be allowed to make them public, especially
 
-Also useful for Huffman Coding: https://www.youtube.com/watch?v=iEm1NRyEe5c
+as most of them are my own extra work.
