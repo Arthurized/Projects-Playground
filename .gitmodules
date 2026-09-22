@@ -1,0 +1,3 @@
+[submodule "Rproject"]
+	path = Rproject
+	url = https://github.com/Arthurized/Rproject.git
