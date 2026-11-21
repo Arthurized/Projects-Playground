@@ -7,3 +7,5 @@ The Rproject folder contains various R code snippets.
 Also useful for Huffman Coding: https://www.youtube.com/watch?v=iEm1NRyEe5c
 
 Lastly, the "Python Sketches" folder contains some drawing sketches from high school. Out of them, the Solar System is probably the one worth looking at.
+
+<img width="328" height="270" alt="image" src="https://github.com/user-attachments/assets/7cfceb90-d752-44ce-b385-f420aa546dba" />
